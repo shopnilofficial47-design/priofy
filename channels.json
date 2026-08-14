@@ -3,7 +3,7 @@
     "name": "BTV",
     "cat": "BANGLADESHI",
     "logo": "https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",
-    "url": "https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8"
+    "url": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8"
   },
   {
     "name": "BTV News",
