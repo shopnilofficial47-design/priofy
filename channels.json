@@ -3,18 +3,13 @@
     "name": "BTV",
     "cat": "BANGLADESHI",
     "logo": "https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",
-    "url": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
-    "server1": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2534321e095f16266f090d05174d162d5a51564f7d1c163f58102d316a3b361b4e1e1d29274e5d535c4d086c4708.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2534321e095f16266f090d05174d162d5a51564f7d1c163f58102d316a3b361b4e1e1d29274e5d535c4d086c4708.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": "https://playztv-apps.pages.dev/btv/index.m3u8"
   },
-  {
-    "name": "BTV News",
-    "cat": "BANGLADESHI",
-    "logo": "https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",
-    "url": "https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8",
-    "server1": "https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8",
-    "server2": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8"
-  },
+  
   {
     "name": "Bangla 1",
     "cat": "BANGLADESHI",
@@ -43,8 +38,10 @@
     "name": "Boishakhi",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/5NFp4xR7/20240822-225600.png",
-    "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8",
-    "server1": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d0737580c0a0a231c25360d6a29330623050f545b4e070d013a4a1e5f052653.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d0737580c0a0a231c25360d6a29330623050f545b4e070d013a4a1e5f052653.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": "https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8"
   },
   {
@@ -75,9 +72,12 @@
     "name": "RTV",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/fy1KcFJf/20240822_225533.png",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
-    "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
-    "server2": ""
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d095a7036322c3603545c15262c001f02011300715c554619011f0f05775a362c203a2b430c410167.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d095a7036322c3603545c15262c001f02011300715c554619011f0f05775a362c203a2b430c410167.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61440b3945582c256a2c271f0413197036130d0205104829035103193e0417221d186c377c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Banglavision",
@@ -93,7 +93,8 @@
     "logo": "https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x95285",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8",
     "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8",
-    "server2": "https://playztv-apps.pages.dev/ananda-tv/index.m3u8"
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441823521b3b2330297d1e1500113e2f4e050f0a061d715f03470e.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Somoy Tv",
@@ -131,8 +132,10 @@
     "name": "Star News",
     "cat": "BANGLADESHI",
     "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8",
-    "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e72756b7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e72756b7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": ""
   },
   {
@@ -187,8 +190,10 @@
     "name": "Desh TV",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/xTz0Qj3G/DESH-TV1.png",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8",
-    "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2534321e095f16266f090d05174d162d5a51564f7d1c163f58102d316a3b361b4e1e1d29274e5f515d4d086c4708.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2534321e095f16266f090d05174d162d5a51564f7d1c163f58102d316a3b361b4e1e1d29274e5f515d4d086c4708.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": "https://playztv-apps.pages.dev/desh-tv/index.m3u8"
   },
   {
@@ -245,7 +250,8 @@
     "logo": "https://i.postimg.cc/L6MvsdFm/20240822-231309.png",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8",
     "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d252f23430f11152d274f000818064a3c01664b523e3d00150b272f20010a6a20084a0c113b59152c2a2655187b746700010c031c053b0b03233b1602001732252027555337341d1668647d06065b1c377d4416380926351b02352212182426223a26230857667c05033f362057332c23130d270c3647453e2b31040f3e372c6d1d535a573d051c21405b2c36363a32004e1e1d29274c0313090a0b70515853583d0e153e1d062b30213e3e42111e15262e081f15400e562a0a.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Ananda",
@@ -261,7 +267,8 @@
     "logo": "https://i.postimg.cc/kXrYt6K3/20240822-230901.png",
     "url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8",
     "server1": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d273b3d43061a013b2608420d0715007070515c513f0a2619655a1d232a383f0c3e2622000025431102021c335b4346183e580c75.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Bijoy Tv",
@@ -291,16 +298,20 @@
     "name": "Asian",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/xdj4TwHX/20240822-230629.png",
-    "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
-    "server1": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
-    "server2": "https://playztv-apps.pages.dev/asian-tv/index.m3u8"
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2b3b7d010a5d07700d253e0720192c277d6477031d3f112b1c33302d20001d0815051b2d294f01521b5b.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2b3b7d010a5d07700d253e0720192c277d6477031d3f112b1c33302d20001d0815051b2d294f01521b5b.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2b3b7d010a5d07700d253e0720192c277d6477031d3f112b1c33302d20001d0815051b2d294f01521b5b.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Movie Bangla",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/mr68ZtBn/20240822-231053.png",
     "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
-    "server1": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e737d6a7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": ""
   },
   {
@@ -333,7 +344,8 @@
     "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8",
     "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e76756f7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Islamic TV",
@@ -341,7 +353,8 @@
     "logo": "https://i.postimg.cc/J4nkLqHS/20260321_075216.png",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8",
     "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e777d6b7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Peace TV Bangla",
@@ -349,7 +362,8 @@
     "logo": "https://i.postimg.cc/vTYq396x/20250529-071345.png",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8",
     "server1": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e7277687d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Iqra Bangla",
@@ -357,7 +371,8 @@
     "logo": "https://i.postimg.cc/qqLNkFLg/20250531-104940.png",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8",
     "server1": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d252f23430f11152d274f000818064a3c01664b523e3d00150b272f20010a6a20084a0c113b59152c2a2655187b746700010c031c053b0b03233b1602001732252027555337341d1668647d06065b1c377d4416380926351b02352212182426223a26230857667c05033f362057332c23130d270c3647453e2b31040f3e372c6d1d5943443209182354193e363230350b0811117131151e040f0e4a335b46571b3c191e245d5a3633363e310c0f15183e36170307080a063a1c434644360a1462501d2a2c2f2c7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Quran TV",
@@ -365,7 +380,8 @@
     "logo": "https://i.postimg.cc/T3f1NQyV/20260524-024937.png",
     "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8",
     "server1": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d283625084f190336290c0315070c0b71515f5f192003183f59143736322e261f001c1836340443120612102d535e46407d1814245f5a2f2e25263f0412065a32711454.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Iqraa TV",
@@ -379,16 +395,20 @@
     "name": "Duronto TV",
     "cat": "KIDS",
     "logo": "https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",
-    "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
-    "server1": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d002b12237e7d41300a326d182f2b16366915551c4e070d013a4a1e5f052653.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d002b12237e7d41300a326d182f2b16366915551c4e070d013a4a1e5f052653.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": "https://playztv-apps.pages.dev/duronto-tv/index.m3u8"
   },
   {
     "name": "Rongeen",
     "cat": "KIDS",
     "logo": "https://i.postimg.cc/G2F8757j/20240823-021053.png",
-    "url": "http://103.175.73.12:8080/live/202/202_0.m3u8",
-    "server1": "http://103.175.73.12:8080/live/202/202_0.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d373a211b04005a2b2a040004090a112f405f1c5f3d440b225d123a272a2b2542131d1a3827040215184c112d535359457e1d482c025a322d2a307d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d373a211b04005a2b2a040004090a112f405f1c5f3d440b225d123a272a2b2542131d1a3827040215184c112d535359457e1d482c025a322d2a307d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": ""
   },
   {
@@ -403,8 +423,10 @@
     "name": "Sony YaY",
     "cat": "KIDS",
     "logo": "https://i.postimg.cc/jSBDsbBX/20240823_021324.png",
-    "url": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8",
-    "server1": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d372b2108001f5a3036151c0d1b104b3d561f5e5f250e563e5c1b261d3d3e2a32564044702109190f05104b3201450a.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d372b2108001f5a3036151c0d1b104b3d561f5e5f250e563e5c1b261d3d3e2a32564044702109190f05104b3201450a.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": ""
   },
   {
@@ -413,7 +435,8 @@
     "logo": "https://i.postimg.cc/wTvMLMp2/20240823_021706.png",
     "url": "https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8",
     "server1": "https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d372b2108001f5a3036151c0d1b104b3d561f5e5f250e56295a063c2d323a21143e191d3b313e0d031c4c0c3156554a183e580c75.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Pogo",
@@ -421,7 +444,8 @@
     "logo": "https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",
     "url": "https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8",
     "server1": "https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d372b2108001f5a3036151c0d1b104b3d561f5e5f250e563d5c12301d373b0c0c03005b362c050919400e562a0a.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Star Jalsha HD",
@@ -429,14 +453,17 @@
     "logo": "https://i.postimg.cc/0ykfppN3/20240822-231405.png",
     "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts",
     "server1": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3d2a231d1504173e360204141e0a173a1c49474623081d231d1b3a366b2f2108171b11286d1218001c090433415853196253497d1d186c377c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Zee Bangla HD",
     "cat": "INDIAN BANGLA",
     "logo": "https://i.postimg.cc/5tjSrbLS/20240822-231445.png",
-    "url": "http://103.159.180.34:5001/live/625.m3u8",
-    "server1": "http://103.159.180.34:5001/live/625.m3u8",
+    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3d2a231d1504173e360204141e0a173a1c49474623081d231d1b3a366b2f2108171b11286d1b09040c020b385e511d04665b49635e462a7a.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
+    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3d2a231d1504173e360204141e0a173a1c49474623081d231d1b3a366b2f2108171b11286d1b09040c020b385e511d04665b49635e462a7a.m3u8?t=4129&s=3d6&id=xspm.m3u
+",
     "server2": "https://playztv-apps.pages.dev/zee-bangla/index.m3u8"
   },
   {
@@ -445,7 +472,8 @@
     "logo": "https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",
     "url": "http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8",
     "server1": "http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3d2a231d1504173e360204141e0a173a1c49474623081d231d1b3a366b2f2108171b11286d02030d0111163d535e555a32031d620b456f6c296c2655.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Enter 10 Bangla",
@@ -453,7 +481,8 @@
     "logo": "https://i.postimg.cc/J0QXn2jh/20240823_020641.png",
     "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
     "server1": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e72716f7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Sony Aath",
@@ -461,7 +490,8 @@
     "logo": "https://i.postimg.cc/2yNd3WJ0/20240822-231606.png",
     "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8",
     "server1": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e72716e7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Sun Bangla",
@@ -469,7 +499,8 @@
     "logo": "https://i.postimg.cc/y88mJsQC/20240823_020415.png",
     "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
     "server1": "http://27.124.71.27/Sun_Bangla/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e72716d7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "R Plus Gold",
@@ -477,7 +508,8 @@
     "logo": "https://i.postimg.cc/P5GdL9Q7/RPlus-Gold-logo-(2013).webp",
     "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8",
     "server1": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d273b3d40555c043631090316401713705e5944537c5a4b7e025a6e70776e0c5c4f1f472a7a.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Jalsha Movies HD",
@@ -493,7 +525,8 @@
     "logo": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8",
     "server1": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d206e345516151e2a301b541707024b3c5e5f475235191623475b31273070311d0a5f00296d22030d01111617761f5653350a0c21475a1c2d2830211e293659292b05090e5351546c050602067d064a380b.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Akash Bangla",
@@ -509,7 +542,8 @@
     "logo": "https://i.postimg.cc/cCWYdSgj/20240823-020619.png",
     "url": "http://103.175.73.12:8080/live/375/375_0.m3u8",
     "server1": "http://103.175.73.12:8080/live/375/375_0.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d273b3d40555c043631090316401713705e5944537c5a4d7a005a3223372b361f4f1f472a7a.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Sananda Tv",
@@ -517,7 +551,8 @@
     "logo": "https://i.postimg.cc/Kc7BJRCy/20240823-020704.png",
     "url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8",
     "server1": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d283625084f011531230f08001a06093a4459415f3c0557245d5a2c232a3e3d09005d002d230207124315543e031f5f593d045720000067.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "Ruposhi Bangla",
@@ -549,7 +584,8 @@
     "logo": "https://i.postimg.cc/6pCXvxyz/20240823_022553.png",
     "url": "http://66.102.126.10:8000/play/a00f/index.m3u8",
     "server1": "http://66.102.126.10:8000/play/a00f/index.m3u8",
-    "server2": ""
+    "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d095a7073746c7d5c50465a6e734f5f56545b5567031f61423219541d5f002c6f0c1b7c040f1611276c0c5f1456.m3u8?t=4129&s=3d6&id=xspm.m3u
+"
   },
   {
     "name": "& Tv",
