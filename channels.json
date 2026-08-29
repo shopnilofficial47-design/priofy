@@ -514,11 +514,11 @@
     "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d206e345516151e2a301b541707024b3c5e5f475235191623475b31273070311d0a5f00296d22030d01111617761f5653350a0c21475a1c2d2830211e293659292b05090e5351546c050602067d064a380b.m3u8?t=4129&s=3d6&id=xspm.m3u"
   },
   {
-    "name": "Akash Bangla",
+    "name": "Akash Aath",
     "cat": "INDIAN BANGLA",
     "logo": "https://i.postimg.cc/NfgTVQw2/20240823-020726.png",
-    "url": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8",
-    "server1": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8",
+    "url": "https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+    "server1": "https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
     "server2": ""
   },
   {
@@ -781,8 +781,8 @@
     "name": "Sangeet Bangla",
     "cat": "MUSIC",
     "logo": "https://i.postimg.cc/pdddb1bs/20250529_120025.png",
-    "url": "http://103.175.73.12:8080/live/379/379_0.m3u8",
-    "server1": "http://103.175.73.12:8080/live/379/379_0.m3u8",
+    "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+    "server1": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
     "server2": ""
   },
   {
