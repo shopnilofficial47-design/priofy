@@ -181,8 +181,8 @@
     "name": "Desh TV",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/xTz0Qj3G/DESH-TV1.png",
-    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2534321e095f16266f090d05174d162d5a51564f7d1c163f58102d316a3b361b4e1e1d29274e5f515d4d086c4708.m3u8?t=4129&s=3d6&id=xspm.m3u",
-    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2534321e095f16266f090d05174d162d5a51564f7d1c163f58102d316a3b361b4e1e1d29274e5f515d4d086c4708.m3u8?t=4129&s=3d6&id=xspm.m3u",
+    "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8",
+    "server1": "&https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8",
     "server2": "https://playztv-apps.pages.dev/desh-tv/index.m3u8"
   },
   {
