@@ -8,11 +8,12 @@
     "server2": "https://playztv-apps.pages.dev/btv/index.m3u8"
   },
   {
-    "name": "Bangla TV",
+    "name": " Channel 24",
     "cat": "BANGLADESHI",
-    "logo": "https://i.postimg.cc/R0J6rLBn/r2Pe-JQRk-KVBJNHu-A1u-ABt-MFat3ZFl-Xm4oj-Tt5SWI.png",
-    "url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8",
-    "server1": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8",
+    "logo": "https://i.ibb.co.com/rKTwstLv/Screenshot-20260829-215936-Pinterest.png",
+    "url": "https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8",
+    "server1": "https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8",
+    "server2": "https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8"
     "server2": ""
   },
   {
@@ -283,8 +284,8 @@
     "name": "Asian",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/xdj4TwHX/20240822-230629.png",
-    "url": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2b3b7d010a5d07700d253e0720192c277d6477031d3f112b1c33302d20001d0815051b2d294f01521b5b.m3u8?t=4129&s=3d6&id=xspm.m3u",
-    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2b3b7d010a5d07700d253e0720192c277d6477031d3f112b1c33302d20001d0815051b2d294f01521b5b.m3u8?t=4129&s=3d6&id=xspm.m3u",
+    "url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8",
+    "server1": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8",
     "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d2b3b7d010a5d07700d253e0720192c277d6477031d3f112b1c33302d20001d0815051b2d294f01521b5b.m3u8?t=4129&s=3d6&id=xspm.m3u"
   },
   {
