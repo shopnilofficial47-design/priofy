@@ -98,11 +98,19 @@
     "server2": ""
   },
   {
+    "name": " Rupshi Bangla",
+    "cat": "BANGLADESHI",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x95285",
+    "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
+    "server1": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
+    "server2": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8"
+  },
+  {
     "name": "Ananda TV",
     "cat": "BANGLADESHI",
     "logo": "https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x95285",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8",
-    "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8",
+    "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8",
+    "server1": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8",
     "server2": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441823521b3b2330297d1e1500113e2f4e050f0a061d715f03470e.m3u8?t=4129&s=3d6&id=xspm.m3u"
   },
   {
