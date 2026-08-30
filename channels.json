@@ -317,9 +317,9 @@
     "name": "Movie Bangla",
     "cat": "BANGLADESHI",
     "logo": "https://i.postimg.cc/mr68ZtBn/20240822-231053.png",
-    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
-    "server1": "https://go.skym3u.top/live/ab172/3b1f0d3d404f706d3c2b2108001f173026044200020f0c315d5e57443609163f5d5b282d3634361f125c103a344e1f151c0604321d080604600d407f0a5a6e737d6a7d0052074c.m3u8?t=4129&s=3d6&id=xspm.m3u",
-    "server2": ""
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8",
+    "server1": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8",
+    "server2": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
   },
   {
     "name": "Me Tv",
