@@ -2,8 +2,8 @@
   {
     "id": "1",
     "visibility": "public", 
-    "league": " Cricket | One Day International",
-    "leagueLogo": "https://example.com/asia_cup.png",
+    "league": "Cricket | South Africa tour of Namibia, 2026",
+    "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
     "team1": "Namibia",
     "logo1": "https://img.sofascore.com/api/v1/team/199275/image",
     "team2": "South Africa",
@@ -13,20 +13,16 @@
     "sportCategory": "Cricket",
     "buttons": [
       {
-        "name": "Server 1",
-        "url": "https://example.com/live/server1.m3u8"
-      },
-      {
-        "name": "Server 2",
-        "url": "https://example.com/live/server2.m3u8"
-      },
-      {
         "name": "CricGo 2",
-        "url": "https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=HUHR0sZriep7EdoD0F-Nzw&expires=1789125640&ch=cricgo2&s=2a3331f9e83c39c5f265c111c352588a",
+        "url": "https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=N2wxZYVr0IAFMQ7IXFrKtw&expires=1789129237&ch=cricgo2&s=6210ec4c981550fa6a6a03c4ee3f1ab1",
         "headers": {
           "Referer": "https://playerr03.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Server 2",
+        "url": "https://example.com/live/server2.m3u8"
       }
     ]
   },
@@ -46,34 +42,5 @@
       {
         "name": "HD Server 1",
         "url": "https://example.com/live/football_hd.m3u8"
-      },
-      {
-        "name": "SD Server 2",
-        "url": "https://example.com/live/football_sd.m3u8"
       }
     ]
-  },
-  {
-    "id": "3",
-    "visibility": "unpublic", 
-    "league": "WWE | Friday Night SmackDown",
-    "leagueLogo": "https://example.com/wwe_logo.png",
-    "team1": "SmackDown",
-    "logo1": "https://example.com/smackdown.png",
-    "team2": "Live",
-    "logo2": "https://example.com/wwe_live.png",
-    "matchDate": "13/09/2026",
-    "matchTime": "06:00 AM",
-    "sportCategory": "WWE",
-    "buttons": [
-      {
-        "name": "Main Event Server",
-        "url": "https://example.com/live/wwe_main.m3u8"
-      },
-      {
-        "name": "Backup Server",
-        "url": "https://example.com/live/wwe_backup.m3u8"
-      }
-    ]
-  }
-]
