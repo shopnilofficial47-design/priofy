@@ -1,4 +1,3 @@
-
 [
   {
     "id": "1",
@@ -14,8 +13,12 @@
     "sportCategory": "Cricket",
     "buttons": [
       {
-        "name": "Server 1",
-        "url": "https://example.com/live/server1.m3u8"
+        "name": "CricGo 2",
+        "url": "https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=HUHR0sZriep7EdoD0F-Nzw&expires=1789125640&ch=cricgo2&s=2a3331f9e83c39c5f265c111c352588a",
+        "headers": {
+          "Referer": "https://playerr03.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "Server 2",
