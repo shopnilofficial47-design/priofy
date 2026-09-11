@@ -1,1 +1,72 @@
 
+[
+  {
+    "id": "1",
+    "visibility": "public", 
+    "league": "Cricket | Asia Cup Final",
+    "leagueLogo": "https://example.com/asia_cup.png",
+    "team1": "Bangladesh",
+    "logo1": "https://example.com/bd.png",
+    "team2": "India",
+    "logo2": "https://example.com/ind.png",
+    "matchDate": "11/09/2026",
+    "matchTime": "03:30 PM",
+    "sportCategory": "Cricket",
+    "buttons": [
+      {
+        "name": "Server 1",
+        "url": "https://example.com/live/server1.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "url": "https://example.com/live/server2.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "visibility": "public", 
+    "league": "Football | World Cup Qualifiers",
+    "leagueLogo": "https://example.com/fifa.png",
+    "team1": "Argentina",
+    "logo1": "https://example.com/arg.png",
+    "team2": "Brazil",
+    "logo2": "https://example.com/bra.png",
+    "matchDate": "12/09/2026",
+    "matchTime": "08:45 PM",
+    "sportCategory": "Football",
+    "buttons": [
+      {
+        "name": "HD Server 1",
+        "url": "https://example.com/live/football_hd.m3u8"
+      },
+      {
+        "name": "SD Server 2",
+        "url": "https://example.com/live/football_sd.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "visibility": "public", 
+    "league": "WWE | Friday Night SmackDown",
+    "leagueLogo": "https://example.com/wwe_logo.png",
+    "team1": "SmackDown",
+    "logo1": "https://example.com/smackdown.png",
+    "team2": "Live",
+    "logo2": "https://example.com/wwe_live.png",
+    "matchDate": "13/09/2026",
+    "matchTime": "06:00 AM",
+    "sportCategory": "WWE",
+    "buttons": [
+      {
+        "name": "Main Event Server",
+        "url": "https://example.com/live/wwe_main.m3u8"
+      },
+      {
+        "name": "Backup Server",
+        "url": "https://example.com/live/wwe_backup.m3u8"
+      }
+    ]
+  }
+]
