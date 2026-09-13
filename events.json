@@ -8,13 +8,13 @@
     "logo1": "https://img.sofascore.com/api/v1/team/199275/image",
     "team2": "South Africa",
     "logo2": "https://img.sofascore.com/api/v1/team/187747/image",
-    "matchDate": "11/09/2026",
-    "matchTime": "08:30 PM",
+    "matchDate": "13/09/2026",
+    "matchTime": "01:30 PM",
     "sportCategory": "Cricket",
     "buttons": [
       {
         "name": "CricGo 2",
-        "url": "https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=8ZkdkZ8r7lgs8RirnmPdZw&expires=1789140037&ch=cricgo2&s=6c27149798141ff69bf8b8ddfcb0b14a",
+        "url": "https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=WZwAPhc92-hBkfnIZmwQIA&expires=1789291240&ch=cricgo2&s=bee91cf6d7144313ade829f55cbffac8",
         "headers": {
           "Referer": "https://playerr03.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
