@@ -14,7 +14,7 @@
     "buttons": [
       {
         "name": "CricGo 2",
-        "url": "https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=WZwAPhc92-hBkfnIZmwQIA&expires=1789291240&ch=cricgo2&s=bee91cf6d7144313ade829f55cbffac8",
+        "url": "https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=sMIbe-mnLx9urFKbbQUlpQ&expires=1789295091&ch=cricgo2&s=cd3cb0d19c13b788ca86bcd8b1823ba4",
         "headers": {
           "Referer": "https://playerr03.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
