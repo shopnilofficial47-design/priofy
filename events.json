@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "visibility": "public", 
+    "visibility": "unpublic", 
     "league": "Cricket | South Africa tour of Namibia, 2026",
     "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
     "team1": "Namibia",
